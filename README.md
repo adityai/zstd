@@ -101,7 +101,7 @@ Going into `build` directory, you will find additional possibilities :
   + VS2010 project is compatible with VS2012, VS2013 and VS2015
 - Automated build scripts for Visual compiler by @KrzysFR , in `build/VS_scripts`,
   which will build `zstd` cli and `libzstd` library without any need to open Visual Studio solution.
-
+  
 
 ### Status
 
